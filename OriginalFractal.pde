@@ -57,5 +57,5 @@ public void draw()
 {
 	background(0);
 	myFractal(500,400,siz1);
-	siz1+=2;
+	siz1+=1;
 	}
